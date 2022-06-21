@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-stroi-kz/static/css/main.829bea56.css",
+    "main.js": "/e-stroi-kz/static/js/main.e155eab9.js",
+    "index.html": "/e-stroi-kz/index.html",
+    "static/media/left-arrow.svg": "/e-stroi-kz/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
+    "static/media/right-arrow.svg": "/e-stroi-kz/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
+    "static/media/no-content.svg": "/e-stroi-kz/static/media/no-content.ffcf5a4649139602bcfa9d6b699849fe.svg",
+    "main.829bea56.css.map": "/e-stroi-kz/static/css/main.829bea56.css.map",
+    "main.e155eab9.js.map": "/e-stroi-kz/static/js/main.e155eab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.829bea56.css",
+    "static/js/main.e155eab9.js"
+  ]
+}
